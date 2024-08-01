@@ -100,7 +100,7 @@ html {
   justify-content: space-evenly;
 }
 
-@media (max-width: 768px) {
+@media (max-width: 576px) {
   .container {
     grid-template-columns: 1fr;
     grid-template-rows: auto 1fr auto;
@@ -186,7 +186,7 @@ html {
   display: block;
 }
 
-@media (max-width: 768px) {
+@media (max-width: 576px) {
   .card {
     transform: none;
     box-shadow: none;
